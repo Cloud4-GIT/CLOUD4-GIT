@@ -12,5 +12,6 @@
 
 [Luís - KayPT](https://github.com/orgs/Cloud4-GIT/people/KayPT "KayPT's Profile")
 
+#### Docente
 
-[Gabriel Beck - Docente](https://github.com/orgs/Cloud4-GIT/people/gabriel-beck-santos "Gabriel's Profile")
+[Gabriel Beck](https://github.com/orgs/Cloud4-GIT/people/gabriel-beck-santos "Gabriel's Profile")
